@@ -1,4 +1,4 @@
-# Evidence Reconciled Neural Network
+# Differential Evidential Deep Learning for Robust Meidcal Out-of-Distribution Detection
 
 Out-of-Distribution detection method.
 
