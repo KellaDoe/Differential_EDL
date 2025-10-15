@@ -8,14 +8,7 @@ Out-of-Distribution detection method.
 
 The ISIC2019 dataset can be download at [https://challenge.isic-archive.com/data/#2019](https://challenge.isic-archive.com/data/#2019)
 
-Please change your own path for ISIC2019 dataset in **evaluate.py** and **train.py**
-
-```python
-p_train_img = '/mnt/mnt_data/ISIC_2019/ISIC_2019_Training_Input'
-p_train_label = '/mnt/mnt_data/ISIC_2019/ISIC_2019_Training_GroundTruth.csv'
-```
-
-
+Please change your own path for ISIC2019 dataset in **Data/isic.py**
 
 ## Code
 
