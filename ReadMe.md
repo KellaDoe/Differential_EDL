@@ -19,13 +19,10 @@ p_train_label = '/mnt/mnt_data/ISIC_2019/ISIC_2019_Training_GroundTruth.csv'
 
 ## Code
 
-**evaluate.py**
+**visualize_isic.ipynb**
 
 To evaluate ID classification and OOD detection:
 
-```
-python evaluate.py
-```
 
 **train.py**
 
