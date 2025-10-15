@@ -37,11 +37,11 @@ python train.py --dataset isic --method rolenet
 
 **dataset.py**
 
-Load dataset, split ood categories, split data for five-fold for id categories.
+Load dataset, split ood categories, split data.
 
-**models.py**
+**Methods/ROLENet.py**
 
-Implementation for proposed ERNN.
+Implementation for proposed ROLENet.
 
 **evaluation.py**
 
