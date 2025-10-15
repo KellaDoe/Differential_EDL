@@ -33,8 +33,8 @@ Load dataset, split ood categories, split data.
 
 Implementation for proposed ROLENet.
 
-**evaluation.py**
 
-In line with the work  "Out-of-Distribution Detection for Long-tailed and Fine-grained Skin Lesion Images" (https://arxiv.org/abs/2206.15186) in MICCAI 2022.
+
+The evaluation is in line with the work  "Out-of-Distribution Detection for Long-tailed and Fine-grained Skin Lesion Images" (https://arxiv.org/abs/2206.15186) in MICCAI 2022.
 
 
